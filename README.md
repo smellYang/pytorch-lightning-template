@@ -1,5 +1,6 @@
 # Pytorch-Lightning-Template
 
+[**教程网址**](https://www.miracleyoo.com/2021/03/11/pytorch-lightning/)
 [**Chinese Version 中文版**](./Assets/README_CN.md)
 
 ## Introduction
