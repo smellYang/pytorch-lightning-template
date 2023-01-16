@@ -1,5 +1,7 @@
 # Pytorch-Lightning-Template
 
+
+[**9 Tips For Training Lightning-Fast Neural Networks In Pytorch**](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)  
 [**教程网址**](https://www.miracleyoo.com/2021/03/11/pytorch-lightning/)  
 [**Chinese Version 中文版**](./Assets/README_CN.md)
 
